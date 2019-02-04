@@ -1,4 +1,4 @@
-# Prevent duplicate windows in an electron app
+# Prevent duplicate windows in an electron app invoked from renderer and main processes
 
 - Author: [Ganesh Rathinavel](https://www.linkedin.com/in/ganeshrvel "Ganesh Rathinavel")
 - License: [MIT](https://github.com/ganeshrvel/tutorial-electron-window-switching/blob/master/LICENSE "MIT")
